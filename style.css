@@ -1,0 +1,51 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.textColor{
+    color: rgb(72, 72, 219);
+}
+.textColor2{
+    color:rgb(188, 52, 79);
+}
+.button{
+    border: 1px solid rgb(62, 62, 194) ;
+    color: rgb(62, 62, 194);
+    background-color: white;
+    padding: 5px 8px;
+    margin: 5px;
+    
+    
+}
+.button:hover{
+    color: white;
+    background-color:rgb(75, 75, 167) ;
+}
+.button:focus{
+    border: 3px solid rgb(62, 62, 194);
+}
+.t{
+    border-bottom: 2px solid black;
+}
+.inputField{
+    
+    border: 2px solid rgb(232, 227, 227) ;
+    border-radius: 5px;
+    padding: 3px;
+    color: rgb(27, 25, 25);
+    
+
+}
+.submitButton{
+    padding: 3px 8px;
+    border: 1px solid crimson;
+   background-color: white;
+    color: rgb(215, 66, 96);;
+    width: 80px;
+    border-radius: 3px;
+    font-weight: 600;
+}
+.submitButton:hover{
+    background-color: rgb(215, 66, 96);
+    color: white;
+}
+
